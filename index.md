@@ -20,7 +20,7 @@ layout: default
 
 {% include 05-emphasis.md %}
 
-1. Item one
-2. Item two
-  1. Subitem one
-  2. Subitem two
+* Item one
+* Item two
+  * Subitem one
+  * Subitem two
