@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Is versed in _Java, C, C++, UNIX command line, ..._
+
+_Also collects **SEMI OBSUCRE** CDs_
